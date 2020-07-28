@@ -1,3 +1,3 @@
-# 토스 css 클론
+# Toss css Clone
 
 ![toss](./toss_clone.png)
